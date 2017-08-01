@@ -1,5 +1,5 @@
 package org.pensions.profile.data.interfaces;
 
-public class PensionerDao {
+public interface PensionerDao {
 
 }
